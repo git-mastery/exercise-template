@@ -1,10 +1,16 @@
-# EXERCISE NAME
+# PROBLEM SET NAME
 
-_Insert exercise description here_
+_Insert problem set description here_
 
-## Goal
+## Learning outcomes
 
-_Insert exercise goals here_
+_Insert problem set learning outcomes here_
+
+## Task
+
+_Insert problem set task here_
+
+The task should be a simplified form of what needs to be done.
 
 ## Submission
 
@@ -16,4 +22,4 @@ bash submit.sh
 
 ## Hints
 
-_Insert exercise hints here (if any)_
+_Insert problem set hints here (if any)_

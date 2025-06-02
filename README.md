@@ -14,11 +14,7 @@ The task should be a simplified form of what needs to be done.
 
 ## Submission
 
-To submit your progress, run the `submit.sh` script found in this repository:
-
-```bash
-bash submit.sh
-```
+To submit your attempt, use `gitmastery submit`.
 
 ## Hints
 

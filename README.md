@@ -1,4 +1,4 @@
-# PROBLEM SET NAME
+# {{ exercise_name }} 
 
 _Insert problem set description here_
 
